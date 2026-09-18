@@ -47,7 +47,6 @@ Sir said: "use README to explain your work fully" - FIXED: I created this detail
  References
 Our website code is our own original work. Images are from Pexels and Unsplash (free commercial use).
 - Pexels.com - Cake images
-- Unsplash.com - Bread images
 - W3Schools & MDN - Learning help
 - IIE Module Manual 2026
 Thank you for visiting our fantastic new website. We hope you love it as much as we loved making it!
